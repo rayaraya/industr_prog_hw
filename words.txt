@@ -1,0 +1,10 @@
+word 5
+word 1
+word 2
+word 3
+cat 1
+cat 2
+cat 3
+dog 1
+dog 1
+dog 2

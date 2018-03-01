@@ -1,0 +1,4 @@
+Words counting:
+cat 6
+word 11
+dog 4
